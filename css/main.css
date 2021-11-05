@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Playfair+Display&family=Shadows+Into+Light&family=Zen+Kurenaido&display=swap');
+
+body{
+    font-family: 'Shadows Into Light', cursive;
+}
+.cuadro{
+    width: 100%;
+    height: 200px;
+    background-color: #00082c;
+}
+
+.imagen1{
+    transform: translateX(145%);
+}
+
+
+.products-header{
+    padding: 45px;
+    justify-content: space-around;
+}
+
+.product img{
+    width: 95px;
+    
+}
